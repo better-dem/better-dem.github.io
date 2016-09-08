@@ -12,7 +12,7 @@ We plan to incorporate as a California and federal nonprofit in the next couple 
 
 ### Contributors
 
-## David Cohen
+#### David Cohen
 
 <img src="http://davidogbodfog.bitbucket.org/david.jpg" width="100" height='100'>
 
@@ -21,7 +21,7 @@ He has a MS in ECE from CMU, and a BS in EE from UCLA.
 He is the developer of the open source [YODA dialog system framework](http://davidogbodfog.bitbucket.org/yoda/project.html). 
 He is co-founder and formerly CTO of [Podium Technologies](podiumtech.co), where he built [this sexy program](https://youtu.be/2VefoN76h2M).
 
-## Akshay Chandrashekaran
+#### Akshay Chandrashekaran
 
 <img src="https://users.ece.cmu.edu/~akshayc/files/avatar.jpg" width="100" height='100'>
 
