@@ -27,4 +27,4 @@ He is co-founder and formerly CTO of [Podium Technologies](podiumtech.co), where
 
 Akshay is a PhD student at Carnegie Mellon University in the Department of Electrical and Computer Engineering, specializing in speech recognition and multi objective optimization. 
 He graduated with an MS in Electrical and Computer Engineering from Carnegie Mellon University in 2011 and a B.E. in Electronics and Telecommunications in 2010 from the University of Pune, India. 
-Akshay'so past industry experiences includes an internship at Lenovo Speech Labs. 
+Akshay's past industry experiences includes an internship at Lenovo Speech Labs. 
