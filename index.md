@@ -14,7 +14,7 @@ We plan to incorporate as a California and federal nonprofit in the next couple 
 
 #### David Cohen
 
-<img src="http://davidogbodfog.bitbucket.org/david.jpg" width="100" height='100'>
+<img src="http://davidogbodfog.bitbucket.org/david.jpg" height='100'>
 
 David is a PhD student at Carnegie Mellon University in the Department of Electrical and Computer Engineering, specializing in spoken dialogue systems.
 He has a MS in ECE from CMU, and a BS in EE from UCLA.
@@ -23,7 +23,7 @@ He is co-founder and formerly CTO of [Podium Technologies](podiumtech.co), where
 
 #### Akshay Chandrashekaran
 
-<img src="https://users.ece.cmu.edu/~akshayc/files/avatar.jpg" width="100" height='100'>
+<img src="https://users.ece.cmu.edu/~akshayc/files/avatar.jpg" height='100'>
 
 Akshay is a PhD student at Carnegie Mellon University in the Department of Electrical and Computer Engineering, specializing in speech recognition and multi objective optimization. 
 He graduated with an MS in Electrical and Computer Engineering from Carnegie Mellon University in 2011 and a B.E. in Electronics and Telecommunications in 2010 from the University of Pune, India. 
