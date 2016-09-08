@@ -14,7 +14,7 @@ We plan to incorporate as a California and federal nonprofit in the next couple 
 
 ## David Cohen
 
-<img src="media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAaIAAAAJDk5MGQyYjJjLTM0MDctNDBmNi1hMTYzLTAyYWI4ZTkwODQzNA.jpg" width="100" height='100'>
+<img src="http://davidogbodfog.bitbucket.org/david.jpg" width="100" height='100'>
 
 David is a PhD student at Carnegie Mellon University in the Department of Electrical and Computer Engineering, specializing in spoken dialogue systems.
 He has a MS in ECE from CMU, and a BS in EE from UCLA.
