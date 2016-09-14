@@ -14,7 +14,7 @@ We plan to incorporate as a California and federal nonprofit in the next couple 
 
 #### David Cohen
 
-<img src="http://davidogbodfog.bitbucket.org/david.jpg" height='100'>
+<img src="https://avatars2.githubusercontent.com/u/1332401?v=3&s=466" height='100'>
 
 David is a PhD student at Carnegie Mellon University in the Department of Electrical and Computer Engineering, specializing in spoken dialogue systems.
 He has a MS in ECE from CMU, and a BS in EE from UCLA.
@@ -28,3 +28,12 @@ He is co-founder and formerly CTO of [Podium Technologies](podiumtech.co), where
 Akshay is a PhD student at Carnegie Mellon University in the Department of Electrical and Computer Engineering, specializing in speech recognition and multi objective optimization. 
 He graduated with an MS in Electrical and Computer Engineering from Carnegie Mellon University in 2011 and a B.E. in Electronics and Telecommunications in 2010 from the University of Pune, India. 
 Akshay's past industry experiences includes an internship at Lenovo Speech Labs. 
+
+
+#### Erika Menezes
+
+<img src="https://avatars3.githubusercontent.com/u/9581213?v=3&s=466" height='100'>
+
+Erika is a software engineer at Microsoft.
+She has an MS in INI from Carnegie Mellon, where she worked as a research assistant on several machine learning and NLP projects.
+Prior to that, she was a senior software engineer at Indus Valley Partners.
