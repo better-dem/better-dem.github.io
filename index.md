@@ -36,4 +36,4 @@ Akshay's past industry experiences includes an internship at Lenovo Speech Labs.
 
 Erika is a software engineer at Microsoft.
 She has an MS in INI from Carnegie Mellon, where she worked as a research assistant on several machine learning and NLP projects.
-Prior to that, she was a senior software engineer at Indus Valley Partners.
+Prior to that, she received her BS in computer engineering from Goa College of Engineering, and worked for two years as a senior software engineer at Indus Valley Partners.
