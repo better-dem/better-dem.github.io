@@ -43,5 +43,5 @@ Prior to that, she received her BE in computer engineering from Goa College of E
 
 Rebecca is creative and loves music. 
 She completed her studies in Software Engineering from Arizona State University. 
-She received an undergraduate degree from Mumbai University in Electonics Engineering. 
+In 2012, she received an undergraduate degree from Mumbai University in Electonics Engineering. 
 She's also interested in volunteering her time and skills to initiatives that support education, the arts and the elderly.
