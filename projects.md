@@ -10,7 +10,7 @@ We work on projects with goals such as increasing voter knowledge and decision-m
 
 The Better Democracy Portal is our flagship project.
 For private citizens, the portal is a great resource for learning about and interacting with all levels of government.
-For public managers, the Better-dem Portal provides tools for community outreach.
+For public managers, the portal provides tools for community outreach.
 The portal will be online for public consumption in the near future!
 
 Visit our [GitHub page](https://github.com/better-dem/portal).
