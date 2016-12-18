@@ -3,6 +3,8 @@ layout: default
 permalink: /projects/
 ---
 
+## Our Projects
+
 We work on projects with goals such as increasing voter knowledge and decision-making ability, fostering democratic attitudes such as openness to opposing points of view, and improving government accessibility and accountability.
 
 
