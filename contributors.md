@@ -15,7 +15,7 @@ He is co-founder and formerly CTO of [Podium Technologies](podiumtech.co), where
 
 ## Mollie Cohen
 
-<img src="http://www.vanderbilt.edu/political-science/images/people/cohen-mollie.jpg" height='100'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/mollie_square.jpg" height='100'>
 
 Mollie has a PhD from Vanderbilt in comparitive politics.
 Her main research interests include elections and political representation, particularly in the Latin American region. 
