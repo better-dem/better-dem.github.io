@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-### Our Mission
+## Our Mission
 
 The Better Democracy Network (BetterDem) is an organization of software engineers and social scientists trying to improve the connection between citizens and their government.
 
