@@ -7,5 +7,7 @@ permalink: /contact/
 
 ### Contact Us
 
-davidogbodfog at gmail dot com 
+Email us at:
+
+info@betterdem.org 
 
