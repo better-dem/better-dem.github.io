@@ -16,6 +16,8 @@ BetterDem's activities include:
 <li>We advocate for more and better opportunities for citizens to meaningfully participate in government.</li>
 </ul>
 
+## Subscribe to our monthly newsletter
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -26,7 +28,6 @@ BetterDem's activities include:
 <div id="mc_embed_signup">
 <form action="//betterdem.us14.list-manage.com/subscribe/post?u=66dd13812b9078c3080664d5a&amp;id=e5ae7e5e4e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our monthly newsletter</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
