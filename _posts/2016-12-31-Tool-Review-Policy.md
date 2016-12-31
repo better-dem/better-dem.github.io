@@ -70,8 +70,10 @@ The final score is calculated as follows:
 
 ```
 8 / 14 * 5 = 2.857
-Rounding 2.857 to the nearest .5 gives 3.0, and a final score of 3 stars out of 5.
+Rounding 2.857 to the nearest .5 gives 3.0
 ```
+
+and the final score is 3 stars out of 5.
 
 ## Controversy
 
