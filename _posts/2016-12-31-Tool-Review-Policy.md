@@ -67,6 +67,7 @@ For example, imagine the rubric filled out for tool X below:
 The reviewer didn't have time, or couldn't follow the sources back to the data to determine whether it was correct, so "Data correct?" was excluded from the rating.
 
 The final score is calculated as follows:
+
 ```
 8 / 14 * 5 = 2.857
 Rounding 2.857 to the nearest .5 gives 3.0, and a final score of 3 stars out of 5.
