@@ -4,7 +4,7 @@ title: News Critique Policy
 ---
 
 Much of the television news which Americans consume is created for profit or propaganda purposes.
-Though most reputable organizations don't present outright lies as fact, there are aspects of the tone and content which leave viewers with misimpressions.
+Inevitably, there are aspects of the tone and content which leave viewers with misimpressions.
 With our news critique video series, our goal is to educate viewers on how to interpret TV news in order to live happy healthy lives and to participate effectively in the democratic process.
 
 In critiquing news segments of a political nature, Better Dem strives to be as objective, transparent, and non-partisan as possible in keeping with our educational mission.
