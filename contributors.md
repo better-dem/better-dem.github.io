@@ -2,7 +2,7 @@
 layout: default
 permalink: /contributors
 ---
-## Our Volunteers
+## Our Contributors
 
 ### David Cohen
 
@@ -24,6 +24,13 @@ In particular, she asked why individual voters choose to cast blank or spoiled b
 She has a strong background in statistical methods, and uses these skills to analyze survey and electoral data. 
 She has also done extensive fieldwork in Latin America.
 More [here](http://www.molliecohen.com/).
+
+### Andrew Wurtz
+
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/andrew.jpg" height='100'>
+
+Andrew has a BA in music composition and music technology from Seattle Pacific University. 
+He is from Akron, Ohio, living in Seattle, Washington and has spent time working in furniture making and writing songs for the band [openhouse](https://openopenhouse.bandcamp.com)
 
 ### Akshay Chandrashekaran
 
