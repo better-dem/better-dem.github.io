@@ -19,10 +19,12 @@ Better Democracy Network (BDN) is a nonpartisan organization, and does not parti
 This policy applies to all BDN directors, employees, and volunteers; hereafter “BDN personnel”.
 
 ## Article III - Policy
+
 ### Non-exclusive Tools and Services
 BDN creates web services and tools (hereafter “BDN tools”). Some BDN tools are intended to be used by appropriate private or public entities to create educational content for the public. These tools must be made reasonably available to any such entity, regardless of their party, ideology, or position on any issue.
 
 ### BDN Forbids Campaigning and Propaganda with our Resources
+
 #### Campaigning and Propaganda by BDN Personnel
 BDN resources are not to be used for campaigning or propaganda. 
 No BDN personnel may distribute or display campaign materials supporting or opposing an active political candidate or political party or otherwise campaign in the BDN workplace or during the course of work for BDN. BDN personnel are forbidden to create campaign or propaganda content using BDN’s tools. 
