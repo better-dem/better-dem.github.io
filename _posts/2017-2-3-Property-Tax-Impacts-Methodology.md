@@ -31,10 +31,6 @@ We used the 2015 ACS because the 2016 results aren't available yet at the time o
 
 We used the [2015 Maple Valley Final Budget](http://www.maplevalleywa.gov/home/showdocument?id=7826) property tax rate of $1.25 / $1000.
 
-## Source Code
-
-The software we wrote to do these predictions is freely available for your inspection, modification, and redistribution [here](http://github.com).
-
 ## Computing Fiscal Impact Given Estimated Home Values and Incomes
 
 Input to this stage is a row of variables representing a single household:
@@ -49,7 +45,8 @@ For renters, there is no difference to housing costs between a yes and no vote (
 
 ## Jointly Estimating Incomes and Home Values
 
-We randomly generated a simulated population of 8848 households whose statistical properties matched the information available to us through our various sources using a [Metropolis Algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) and a [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network) representation of houshold characteristics.
+We randomly generated a simulated population of 8848 households whose statistical properties matched the information available to us through our various sources using a [Metropolis Algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) and a [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network) representation of houshold characteristics. 
+The software we wrote to do these predictions is freely available for your inspection, modification, and redistribution [here](https://github.com/davidogbodfog/property-tax-effects-calculator).
 
 
 ## Conclusion and Future Work
