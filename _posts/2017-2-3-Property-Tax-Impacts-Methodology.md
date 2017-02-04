@@ -18,7 +18,7 @@ So, our method was basically two steps:
 
 ## Data Sources
 
-The [King County election website](http://www.kingcounty.gov/depts/elections/how-to-vote/ballots/whats-on-the-ballot/ballot-measures/february-special/list-of-measures/maple-valley.aspx) included an estimate that the tax rate would be increased by $0.35 per $1000 of home value.
+The [King County election website](http://www.kingcounty.gov/depts/elections/how-to-vote/ballots/whats-on-the-ballot/ballot-measures/february-special/list-of-measures/maple-valley.aspx) included an estimate that property taxes would be increased by $0.35 per $1000 of home value.
 
 We used data from the 2015 American Community Survey Data (Produced Annually by Census Bureau).
 We used the 2015 ACS because the 2016 results aren't available yet at the time of our analysis - we made no attempt to extrapolate 2016 numbers.
