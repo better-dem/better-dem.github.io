@@ -18,16 +18,11 @@ So, our method was basically two steps:
 
 ## Data Sources
 
-### King County Election Website
+The [King County election website](http://www.kingcounty.gov/depts/elections/how-to-vote/ballots/whats-on-the-ballot/ballot-measures/february-special/list-of-measures/maple-valley.aspx) included an estimate that the tax rate would be increased by $0.35 per $1000 of home value.
 
-The [election website](http://www.kingcounty.gov/depts/elections/how-to-vote/ballots/whats-on-the-ballot/ballot-measures/february-special/list-of-measures/maple-valley.aspx) included an estimate that the tax rate would be increased by $0.35 per $1000 of home value.
-
-### 2015 American Community Survey Data (Produced Annually by Census Bureau)
-We used data from the following two pages: [employment and income information for Maple Valley](https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US5343150), and [housing information for Maple Valley](https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP04/1600000US5343150).
-
+We used data from the 2015 American Community Survey Data (Produced Annually by Census Bureau).
 We used the 2015 ACS because the 2016 results aren't available yet at the time of our analysis - we made no attempt to extrapolate 2016 numbers.
-
-### 2015 Maple Valley Final Budget
+We used data from the following two pages: [employment and income information for Maple Valley](https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US5343150), and [housing information for Maple Valley](https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP04/1600000US5343150).
 
 We used the [2015 Maple Valley Final Budget](http://www.maplevalleywa.gov/home/showdocument?id=7826) property tax rate of $1.25 / $1000.
 
