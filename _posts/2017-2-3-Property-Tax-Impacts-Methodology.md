@@ -3,8 +3,6 @@ layout: post
 title: Property Tax Impacts of Maple Valley Prop. 1 - Methodology
 ---
 
-## Overview
-
 This article describes the methodology we used to make [our predictions](http://demportal.org) for the fiscal impacts of the new property tax proposed by [Maple Valley Prop. 1](http://www.kingcounty.gov/depts/elections/how-to-vote/ballots/whats-on-the-ballot/ballot-measures/february-special/list-of-measures/maple-valley.aspx).
 We presented the impacts as "Percent of Income Spent on Housing", because we thought this would be the most useful variable for voters to broadly understand the impacts of this measure on their community.
 This is our first foray into policy predictions, and our numbers for this measure should be interpreted as a best effort on short notice, not as highly-reliable.
