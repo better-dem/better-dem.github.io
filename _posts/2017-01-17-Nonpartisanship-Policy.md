@@ -3,8 +3,6 @@ layout: post
 title: Nonpartisanship Policy
 ---
 
-Some of this document was borrowed from the Brookings Institute’s nonpartisanship policy document, [here](https://www.brookings.edu/wp-content/uploads/2016/07/Nonpartisanship-Policy.pdf).
-
 ## Article I - Summary
 Better Democracy Network (BDN) is a nonpartisan organization, and does not participate in partisan political activity. Here are some key points from BDN’s Nonpartisanship policy:
 <ul>
@@ -85,3 +83,5 @@ This policy does not impact the rights of BDN personnel to vote for any candidat
 <li>BDN personnel may sign a statement endorsing or opposing a candidate. The letter may only include the person’s title or affiliation with BDN if it also contains language indicating that affiliations are provided for identification purposes only and do not indicate BDN’s support.</li>
 </ul>
 
+## Acknowledgement
+Some of this document was borrowed from the Brookings Institute’s nonpartisanship policy document, [here](https://www.brookings.edu/wp-content/uploads/2016/07/Nonpartisanship-Policy.pdf).
