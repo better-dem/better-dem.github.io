@@ -5,9 +5,9 @@ permalink: /
 
 ## Our Mission
 
-The Better Democracy Network is a Washington State nonprofit organization trying to improve the connection between citizens and their government.
+Better Democracy Network is a Washington State nonprofit organization trying to improve the connection between citizens and their government.
 
-BetterDem's activities include:
+Our activities include:
 <ul>
 <li>We create educational content about how to interact with government at local, state, and federal levels.</li>
 <li>We provide ordinary citizens with free and personalized recommendations for events, tools, and other opportunities to participate in government.</li>
@@ -21,7 +21,7 @@ BetterDem's activities include:
 Check out [the Better Democracy Portal](http://demportal.org), our flagship site for all things government participation.
 
 
-## Subscribe to our monthly newsletter
+## Subscribe to our Monthly Newsletter
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
