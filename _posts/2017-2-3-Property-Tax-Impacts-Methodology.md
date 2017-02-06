@@ -45,7 +45,11 @@ The software we wrote to do these predictions is freely available for your inspe
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/mv_bn_household_representation.png">
 
+Distributions for <i>p(i)</i>, <i>p(t)</i>, <i>p(v)</i>, <i>p(c|t)</i>, and <i>p(p|t)</i> were all available as histograms from the census sources above. <i>p(x|t,v)</i> is a deterministic formula (multiply the tax rate by the home value if the home type is not "rent"), as is <i>p(p|i,c)</i> (compute a percentage).
 
+The Metropolis algorithm requires a generation distribution <i>g(y'|y)</i>, and an acceptance ratio <i>&alpha;(y',y) = A(y')/A(y) = p(y')/p(y)</i>. 
+We generate candidates in topological order along the Bayesian Network using the census distributions <i>p(i)</i>, <i>p(t)</i>, <i>p(v)</i>, <i>p(c|t)</i>, and <i>p(p|t)</i> and our deterministic formula for <i>p(x|t,v)</i>.
+Our acceptance score <i>A(y)</i> for a sample <i>y</i> was calculated using <i>A(y) = Indicator(c<sub>y</sub> &lt; x<sub>y</sub>) * p(p<sub>y</sub>|t<sub>y</sub>)</i>.
 
 
 ## Conclusion and Future Work
