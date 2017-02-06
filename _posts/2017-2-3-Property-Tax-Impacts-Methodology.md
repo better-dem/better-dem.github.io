@@ -45,11 +45,11 @@ The software we wrote to do these predictions is freely available for your inspe
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/mv_bn_household_representation.png">
 
-Distributions for <i>p<sub>US</sub>(i)</i>, <i>p<sub>US</sub>(t)</i>, <i>p<sub>US</sub>(v)</i>, <i>p<sub>US</sub>(c|t)</i>, and <i>p<sub>US</sub>(p|t)</i> were all available as histograms from the census sources above. <i>p(x|t,v)</i> is a deterministic formula (multiply the tax rate by the home value if the home type is not "rent"), as is <i>p(p|i,c)</i> (compute a percentage).
+Distributions for <i>p<sub>C</sub>(i)</i>, <i>p<sub>C</sub>(t)</i>, <i>p<sub>C</sub>(v)</i>, <i>p<sub>C</sub>(c|t)</i>, and <i>p<sub>C</sub>(p|t)</i> were all available as histograms from the census sources above. <i>p(x|t,v)</i> is a deterministic formula (multiply the tax rate by the home value if the home type is not "rent"), as is <i>p(p|i,c)</i> (compute a percentage).
 
 The Metropolis algorithm requires a generation distribution <i>g(y'|y)</i>, and an acceptance ratio <i>&alpha;(y',y) = A(y')/A(y) = p(y')/p(y)</i>. 
-We generate candidates in topological order along the Bayesian Network using the census distributions <i>p<sub>US</sub>(i)</i>, <i>p<sub>US</sub>(t)</i>, <i>p<sub>US</sub>(v)</i>, <i>p<sub>US</sub>(c|t)</i>, and <i>p<sub>US</sub>(p|t)</i> and our deterministic formula for <i>p<sub>US</sub>(x|t,v)</i>.
-Our acceptance score <i>A(y)</i> for a sample <i>y</i> was calculated using <i>A(y) = Indicator(c<sub>y</sub> &lt; x<sub>y</sub>) * p<sub>US</sub>(p<sub>y</sub>|t<sub>y</sub>)</i>.
+We generate candidates in topological order along the Bayesian Network using the census distributions <i>p<sub>C</sub>(i)</i>, <i>p<sub>C</sub>(t)</i>, <i>p<sub>C</sub>(v)</i>, <i>p<sub>C</sub>(c|t)</i>, and <i>p<sub>C</sub>(p|t)</i> and our deterministic formula for <i>p<sub>C</sub>(x|t,v)</i>.
+Our acceptance score <i>A(y)</i> for a sample <i>y</i> was calculated using <i>A(y) = Indicator(c<sub>y</sub> &lt; x<sub>y</sub>) * p<sub>C</sub>(p<sub>y</sub>|t<sub>y</sub>)</i>.
 
 
 ## Conclusion and Future Work
