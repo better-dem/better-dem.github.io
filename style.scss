@@ -13,6 +13,11 @@
 /* BASE RULES */
 /**************/
 
+sub {
+    vertical-align: sub;
+    font-size: smaller;
+}
+
 html {
   font-size: 100%;
 }
