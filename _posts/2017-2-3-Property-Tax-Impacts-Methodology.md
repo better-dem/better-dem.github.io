@@ -3,8 +3,8 @@ layout: post
 title: Property Tax Impacts of Maple Valley Prop. 1 - Methodology
 ---
 
-This article describes the methodology we used to make [our predictions](http://demportal.org) for the fiscal impacts of the new property tax proposed by [Maple Valley Prop. 1](http://www.kingcounty.gov/depts/elections/how-to-vote/ballots/whats-on-the-ballot/ballot-measures/february-special/list-of-measures/maple-valley.aspx).
-We presented the impacts as "Percent of Income Spent on Housing", because we thought this would be the most useful variable for voters to broadly understand the impacts of this measure on their community.
+This article describes the methodology we used to make [our predictions](http://demportal.org/mv_prop_1) for the fiscal impacts of the new property tax proposed by [Maple Valley Prop. 1](http://www.kingcounty.gov/depts/elections/how-to-vote/ballots/whats-on-the-ballot/ballot-measures/february-special/list-of-measures/maple-valley.aspx).
+We presented the impacts as "Annual Property Tax" and "Percent of Income Spent on Housing", because we thought these would be the most useful variables for voters to broadly understand the fiscal impacts of this measure on their community.
 This is our first foray into policy predictions, and our numbers for this measure should be interpreted as a best effort on short notice, not as highly-reliable.
 Any official city estimates which contradict our predictions should be preferred over ours.
 
@@ -48,8 +48,10 @@ The software we wrote to do these predictions is freely available for your inspe
 Distributions <i>p<sub>C</sub>(i)</i>, <i>p<sub>C</sub>(t)</i>, <i>p<sub>C</sub>(v)</i>, <i>p<sub>C</sub>(c|t)</i>, and <i>p<sub>C</sub>(p|t)</i> were all available as histograms from the census sources above (<i>p<sub>C</sub></i> denotes the Census distribution). <i>p(x|t,v)</i> is a deterministic formula (multiply the tax rate by the home value if the home type is not "rent"), as is <i>p(p|i,c,t)</i> (compute <i>c / t * 100</i>, the percentage).
 
 The Metropolis algorithm requires a generation distribution <i>g(y'|y)</i>, and an acceptance ratio <i>&alpha;(y',y) = A(y')/A(y) = p(y')/p(y)</i>. 
-We generate candidates in topological order along the Bayesian Network using the census distributions <i>p<sub>C</sub>(i)</i>, <i>p<sub>C</sub>(t)</i>, <i>p<sub>C</sub>(v)</i>, <i>p<sub>C</sub>(c|t)</i>, and <i>p<sub>C</sub>(p|t)</i> and our deterministic formula for <i>p<sub>C</sub>(x|t,v)</i>.
-Our acceptance score <i>A(y)</i> for a sample <i>y</i> was calculated using <i>A(y) = Indicator(c<sub>y</sub> &lt; x<sub>y</sub>) * p<sub>C</sub>(p<sub>y</sub>|t<sub>y</sub>)</i>.
+We use a gaussian random walk to generate candidates.
+Our acceptance score <i>A(y)</i> for a sample <i>y</i> was calculated using the formula: <i>A(y) = Indicator(c<sub>y</sub> &lt; x<sub>y</sub>) * p<sub>C</sub>(p<sub>y</sub>|t<sub>y</sub>)</i> * <i>p<sub>C</sub>(i)</i> * <i>p<sub>C</sub>(t)</i> * <i>p<sub>C</sub>(v)</i> * <i>p<sub>C</sub>(c|t)</i> * <i>p<sub>C</sub>(p|t)</i>.
+
+For our final estimates, we ruled out outliers beyond 3 standard deviations along the home value or income dimensions.
 
 
 ## Conclusion and Future Work
