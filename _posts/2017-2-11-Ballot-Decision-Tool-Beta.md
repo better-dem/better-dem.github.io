@@ -35,14 +35,14 @@ We think our ballot decision tool stands out because of its engaging interface, 
 
 Our ballot decision page has a simple hierarchical organization that lets visitors quickly understand what's there and navigate to what interests them.
 
-<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/outline.png" height='150'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/outline.png" width='100%'>
 The tool's outline shows three sections for quick navigation.
 
 Throughout the decision tool we use a variety of interactive widgets, such as the single quiz widget, the effects chart widget, and the decision widget.
 Compared to an all-text article, these are intended to keep more visitors interested and to encourage active thinking about the question posed by the ballot measure.
 
 
-<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/single_quiz.png" height='150'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/single_quiz.png" width='100%'>
 The quiz widget after the user made an incorrect guess at the city's Parks and Recreation budget.
 
 ### Financial Effects
@@ -55,7 +55,7 @@ We believe that citizens shouldn't have to dig or do math to get a reasonable un
 We took census data and information from the city website to make our own financial projections (follow our methodology [here](http://betterdem.org/Property-Tax-Impacts-Methodology/)).
 The result is a set of interactive charts where users can see the expected changes to property tax and to housing costs as a percentage of income depending on the vote result.
 
-<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/financial_effects_charts.png" height='300'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/financial_effects_charts.png" width='100%'>
 By clicking between "yes" or "no" and clicking on the charts themselves, users can see how the measure will affect different people in their community.
 
 ### The Decisionator
@@ -64,10 +64,10 @@ The last step of being an informed voter is making the decision.
 Our ballot tool provides a simple interface for assigning importance to several arguments for and against the measure and generating a decision.
 This tool encourages users to consider arguments that they may have ignored on their own, and encourages a decision-making process which goes from arguments to decision, instead of working backward (rationalizing).
 
-<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/decision1.png" height='300'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/decision1.png" width='100%'>
 To make their decision, users visually score several arguments for and against the measure.
 
-<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/decision2.png" height='300'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/decision2.png" width='100%'>
 The decision tool sums up the user's priorities and generates an outcome and an explanation.
 
 
