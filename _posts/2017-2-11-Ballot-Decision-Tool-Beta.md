@@ -7,7 +7,7 @@ We're pleased to announce the release of our Ballot Decision tool beta, just (ba
 If you're in Maple Valley and haven't made up your mind yet, please [check out the tool!](http://demportal.org/mv_prop_1)
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/financial_effects_charts.png" width='100%'>
-<center><small>A screenshot from the ballot decision tool for Maple Valley Prop. 1. This shows our financial projections depending on the vote's outcome.</small></center>
+<center><small><b>Figure 1</b> A screenshot from the ballot decision tool for Maple Valley Prop. 1. This shows our financial projections depending on the vote's outcome.</small></center>
 
 ## Who is this For?
 
@@ -36,14 +36,14 @@ We think our ballot decision tool stands out because of its engaging interface, 
 Our ballot decision page has a simple hierarchical organization that lets visitors quickly understand what's there and navigate to what interests them.
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/outline.png" width='100%'>
-<center><small>The tool's outline shows three sections for quick navigation.</small></center>
+<center><small><b>Figure 2</b> The tool's outline shows three sections for quick navigation.</small></center>
 
 Throughout the decision tool we use a variety of interactive widgets, such as the single quiz widget, the effects chart widget, and the decision widget.
 Compared to an all-text article, these are intended to keep more visitors interested and to encourage active thinking about the question posed by the ballot measure.
 
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/single_quiz.png" width='100%'>
-<center><small>The quiz widget after the user made an incorrect guess at the city's Parks and Recreation budget.</small></center>
+<center><small><b>Figure 3</b> The quiz widget after the user made an incorrect guess at the city's Parks and Recreation budget.</small></center>
 
 ### Financial Effects
 
@@ -56,7 +56,7 @@ We took census data and information from the city website to make our own financ
 The result is a set of interactive charts where users can see the expected changes to property tax and to housing costs as a percentage of income depending on the vote result.
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/financial_effects_charts.png" width='100%'>
-<center><small>By clicking between "yes" or "no" and clicking on the charts themselves, users can see how the measure will affect different people in their community.</small></center>
+<center><small><b>Figure 4</b> By clicking between "yes" or "no" and clicking on the charts themselves, users can see how the measure will affect different people in their community.</small></center>
 
 ### The Decisionator
 
@@ -65,10 +65,10 @@ Our ballot tool provides a simple interface for assigning importance to several 
 This tool encourages users to consider arguments that they may have ignored on their own, and encourages a decision-making process which goes from arguments to decision, instead of working backward (rationalizing).
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/decision1.png" width='100%'>
-<center><small>To make their decision, users visually score several arguments for and against the measure.</small></center>
+<center><small><b>Figure 5</b> To make their decision, users visually score several arguments for and against the measure.</small></center>
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/decision2.png" width='100%'>
-<center><small>The decision tool sums up the user's priorities and generates an outcome and an explanation.</small></center>
+<center><small><b>Figure 6</b> The decision tool sums up the user's priorities and generates an outcome and an explanation.</small></center>
 
 
 ## What's Next?
