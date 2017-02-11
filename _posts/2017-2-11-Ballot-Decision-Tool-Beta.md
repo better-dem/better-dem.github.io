@@ -6,7 +6,7 @@ title: Ballot Decision Tool Beta - Maple Valley Prop. 1
 We're pleased to announce the release of our Ballot Decision tool beta, just (barely) in time for Maple Valley Washington's Prop. 1.
 If you're in Maple Valley and haven't made up your mind yet, please [check out the tool!](http://demportal.org/mv_prop_1)
 
-<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/financial_effects_charts.png" height='300'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/ballot_decider/financial_effects_charts.png" width='100%'>
 A screenshot from the ballot decision tool for Maple Valley Prop. 1. This shows our financial projections depending on the vote's outcome.
 
 ## Who is this For?
