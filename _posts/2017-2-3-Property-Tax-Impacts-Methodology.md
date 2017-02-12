@@ -41,7 +41,7 @@ For renters, there is no difference to housing costs between a yes and no vote (
 ## Jointly Estimating Incomes and Home Values
 
 We randomly generated a simulated population of 8848 households whose statistical properties matched the information available to us through our various sources using a [Metropolis Algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) and the [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network) representation of houshold characteristics shown in Figure 1. 
-The software we wrote to do these predictions is freely available for your inspection, modification, and redistribution [here](https://github.com/davidogbodfog/property-tax-effects-calculator).
+The software we wrote to do these predictions is freely available for your inspection, modification, and redistribution [here](https://github.com/better-dem/property-tax-effects-calculator).
 
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/mv_bn_household_representation.png">
 
