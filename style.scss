@@ -88,9 +88,10 @@ a.button {
     appearance: button;
 
     text-decoration: none;
-    color: black;
-    background-color: gray;
+    color: $gray;
+    background-color: $white;
     border: 1px;
+    padding: 5px;
 }
 
 ul, ol {
