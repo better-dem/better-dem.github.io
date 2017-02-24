@@ -90,9 +90,10 @@ a.button {
     text-decoration: none;
     color: $gray;
     background-color: $white;
-    border: 1px;
+    border: 2px;
     border-color: $darkerGray;
     border-style: solid;
+    border-radius: 3px;
     padding: 5px;
 }
 
