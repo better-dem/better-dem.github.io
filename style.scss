@@ -97,6 +97,10 @@ a.button {
     padding: 5px;
 }
 
+a.button:hover {
+    background-color:$lightGray;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
