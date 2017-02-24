@@ -22,5 +22,5 @@ Check out [the Better Democracy Portal](http://demportal.org), our flagship site
 
 
 ## Subscribe to our Monthly Newsletter
-<center><a href="/subscribe">Subscribe</a></center>
+<a class="button" href="/subscribe">Subscribe</a>
 
