@@ -46,7 +46,7 @@ Her research and teaching focus has been on gender issues and the American West.
 
 ### Akshay Chandrashekaran
 
-<img src="https://users.ece.cmu.edu/~akshayc/files/avatar.jpg" height='100'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/akshayc.jpg" height='100'>
 
 Akshay is a PhD student at Carnegie Mellon University in the Department of Electrical and Computer Engineering, specializing in speech recognition and multi objective optimization. 
 He graduated with an MS in Electrical and Computer Engineering from Carnegie Mellon University in 2011 and a B.E. in Electronics and Telecommunications in 2010 from the University of Pune, India. 
