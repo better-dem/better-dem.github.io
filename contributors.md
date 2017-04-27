@@ -36,7 +36,7 @@ She is involved with several organizations encouraging young women to consider c
 
 ### Kacey Calahane
 
-<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/kacey_calahane.jpg" height='100'>
+<img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/kacey_calahane.png" height='100'>
 
 Kacey is a PhD student at UC Irvine studying US History. 
 Kacey has a MA in History from SFSU, and a BA from UCLA.
