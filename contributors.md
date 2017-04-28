@@ -39,8 +39,8 @@ She is involved with several organizations encouraging young women to consider c
 <img src="https://raw.githubusercontent.com/better-dem/better-dem.github.io/master/images/kacey_calahane.png" height='100'>
 
 Kacey is a PhD student at UC Irvine studying US History. 
-Kacey has a MA in History from SFSU, and a BA from UCLA.
-Her research and teaching focus has been on gender issues and the American West.
+She has a MA in History from SFSU, and a BA from UCLA. 
+Her research interests include twentieth-century women's history, gender, and the conservative movement. 
 
 ## Contributors
 
