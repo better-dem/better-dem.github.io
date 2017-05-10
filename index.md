@@ -5,7 +5,7 @@ permalink: /
 
 ## Our Mission
 
-Better Democracy Network is a Washington State nonprofit organization trying to improve the connection between citizens and their government.
+Better Democracy Network is a 501(c)(3) nonprofit based in Kirkland, Washington trying to improve the connection between citizens and their government.
 
 Our activities include:
 <ul>
@@ -18,7 +18,7 @@ Our activities include:
 
 ## Portal
 
-Check out [the Better Democracy Portal](http://demportal.org), our flagship site for all things government participation.
+Check out [the Better Democracy Portal](https://demportal.org), our flagship site for all things government participation.
 
 
 ## Subscribe to our Monthly Newsletter
