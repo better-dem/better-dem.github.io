@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journalist Tools: Budget Transparency
+title: Journalist Tools - Budget Transparency
 ---
 
 Since we started less than 6 months ago, Better Dem has been building tools to help ordinary citizens understand and engage with their government.
