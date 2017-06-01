@@ -6,6 +6,7 @@ title: Tools for Civics Educators
 Better Dem is pleased to announce our free platform for Civics educators and students.
 We hope our tools help teachers to teach research skills, data fluency, and critical thinking for political problems.
 Our content is appropriate for students from high school upper classmen through college.
+Check out an example assignment <a href="https://www.demportal.org/apps/reading_assignment/participate/877159">here</a>. 
 
 We have our first pilot lined up this fall at Saddleback Community College in southern California.
 Help us spread the word and get our tools in a classroom near you!
