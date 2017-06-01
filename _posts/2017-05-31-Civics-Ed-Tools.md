@@ -9,7 +9,8 @@ Our content is appropriate for students from high school upper classmen through 
 
 These tools have <b>power</b> and <i>flexibility</i>.
 Our full library of digital content is available for instructors to embed in their assignments, allowing them to build custom assignments on local, state, or national issues.
-Check out an example assignment <a href="https://www.demportal.org/apps/reading_assignment/participate/877159">here</a>. 
+Check out an example assignment <a href="https://www.demportal.org/apps/reading_assignment/participate/877159">here</a>, and check out the video below for a demo of how to build your own assignment.
+
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/axDOavDkOQk" frameborder="0" allowfullscreen></iframe><br>
